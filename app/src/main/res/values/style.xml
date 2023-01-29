@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Save Button -->
+    <style name="SaveButtonTheme" parent="Widget.MaterialComponents.Button">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingTop">@dimen/size_16</item>
+        <item name="android:paddingBottom">@dimen/size_16</item>
+        <item name="cornerRadius">@dimen/size_10</item>
+        <item name="android:textSize">@dimen/font_16</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="backgroundTint">@color/black</item>
+
+    </style>
+</resources>
